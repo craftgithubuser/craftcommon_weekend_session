@@ -1,6 +1,7 @@
 
+{
 
-    "id": integer,
+    "id": "integer",
     "name": "value",
     "first_name": "value"
 }
