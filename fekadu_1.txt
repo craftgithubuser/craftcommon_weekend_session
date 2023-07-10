@@ -1,2 +1,4 @@
 hello 
 branching exercise
+Thank you
+How are you doing?

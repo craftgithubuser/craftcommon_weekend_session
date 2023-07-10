@@ -1,4 +1,7 @@
+
 {
+
+    "id": "integer",
     "name": "value",
     "first_name": "value"
 }
